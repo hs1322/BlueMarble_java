@@ -83,6 +83,11 @@
 
 
 
+# 동작영상
+
+
+https://github.com/user-attachments/assets/6f406ecb-83e3-4e07-83ec-131a8aa8cf63
+
 
 
 # 개선사항
