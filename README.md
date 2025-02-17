@@ -75,6 +75,7 @@
 
 # 플로우차트(flow chart)
 
+![순서도2](https://github.com/user-attachments/assets/ee0ab5c1-2fdc-40f6-8feb-055f77ad9a48)
 
 # 주요기능
 
